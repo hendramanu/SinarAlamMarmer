@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
-image: assets/images/screenshot.png
+title: Tentang Kami
+permalink: "/tentang/"
+image: assets/images/intro.jpg
 ---
 
 This website is a demonstration to see **Affiliates Jekyll theme** in action. 
