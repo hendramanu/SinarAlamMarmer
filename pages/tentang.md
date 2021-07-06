@@ -5,11 +5,10 @@ permalink: "/tentang/"
 image: assets/images/intro.jpg
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+UD. Sinar Alam, berdiri sejak tahun 2005. Bermula dari toko kecil yang hanya menjual produk marmer dan granit. Didirikan oleh Bapak Sugir dan Ibu Mardiani, hingga sekarang tumbuh menjadi toko yang berkembang dan mampu bersaing di dunia proyek. Kini, UD. Sinar Alam tidak hanya menjual marmer dan granit, juga tersedia batu alam, seperti batu candi, batu palimanan putih, bali green, andesit, batu pilah random, dan lain-lain dalam berbagai ukuran.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+![Bapak Sugir (kiri) bersama Ibu Mardiani (kanan), pendiri UD. Sinar Alam]({{ "assets/images/tentang/1.jpg" | relative_url }})
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+![Street view Toko UD. Sinar Alam Marmer]({{ "assets/images/tentang/2.png" | relative_url }})
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+![]({{ "assets/images/tentang/3.jpg" | relative_url }})
