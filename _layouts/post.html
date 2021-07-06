@@ -9,11 +9,7 @@ post_class: post-template
 ================================================== -->
 
 	<div class="row">
-		
 
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
-        
 		<div class="col-sm-8">
             <!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
@@ -75,7 +71,7 @@ post_class: post-template
             
             
              <!-- Author Box -->
-                {% if page.author %}				
+                {% if site.show_author %}				
 				<div class="row post-top-meta">
 					<div class="col-md-2">
 						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">

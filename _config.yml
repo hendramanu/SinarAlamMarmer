@@ -1,6 +1,6 @@
 title: "UD. Sinar Alam"
 description: "Jual Marmer, Granit, dan Batu Alam"
-intro-image: assets/images/intro.svg
+intro-image: 'assets/images/intro.jpg'
 email: "sinar4lam@yahoo.co.id"
 timezone: "Asia/Jakarta"
 baseurl:
@@ -25,6 +25,7 @@ sass:
 ganalytics:
 
 # Authors
+show_author: false
 authors:
   sinaralam:
     name: "UD. Sinar Alam"
