@@ -12,3 +12,13 @@ UD. Sinar Alam, berdiri sejak tahun 2005. Bermula dari toko kecil yang hanya men
 ![Street view Toko UD. Sinar Alam Marmer]({{ "assets/images/tentang/2.png" | relative_url }})
 
 ![]({{ "assets/images/tentang/3.jpg" | relative_url }})
+
+UD. Sinar Alam berlokasi di:
+
+`Jalan Raya Canggu, Br. Pipitan, Badung, Bali.`
+
+Telepon : 085 10047 2425 / 081 2391 8051
+
+Email   : sinar4lam@yahoo.co.id
+
+Barang bisa dikirim. Hubungi kami untuk lebih lanjut.
