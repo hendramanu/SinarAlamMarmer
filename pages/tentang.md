@@ -17,8 +17,8 @@ UD. Sinar Alam berlokasi di:
 
 `Jalan Raya Canggu, Br. Pipitan, Badung, Bali.`
 
-Telepon : 085 10047 2425 / 081 2391 8051
+Telepon : [+6281 2391 8051](tel:+628123918051) / [+6285 10047 2425](tel:+6285 10047 2425)
 
-Email   : sinar4lam@yahoo.co.id
+Email   : [sinar4lam@yahoo.co.id](mailto:sinar4lam@yahoo.co.id)
 
 Barang bisa dikirim. Hubungi kami untuk lebih lanjut.
