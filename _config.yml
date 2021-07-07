@@ -41,6 +41,14 @@ social:
   whatsapp: +628123918051
   email: sinar4lam@yahoo.co.id
 
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+
 # Gems
 gems: 
 - jekyll-paginate
