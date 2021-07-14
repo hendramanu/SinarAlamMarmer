@@ -3,6 +3,7 @@ description: "Jual Marmer, Granit, dan Batu Alam"
 intro-image: 'assets/images/intro.jpg'
 email: "sinar4lam@yahoo.co.id"
 timezone: "Asia/Jakarta"
+url: http://sinaralam.rf.gd
 baseurl:
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
